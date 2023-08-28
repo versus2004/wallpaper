@@ -20,7 +20,7 @@ def set_gnome_wallpaper(file_path):
         print("An error occurred while setting a new wallpaper.")
 
 if __name__ == '__main__':
-    wallpaper_directory = "/home/versus/Downloads/Walls/new"
+    wallpaper_directory = "whole path of ur wallpaper"
 
     # Get a list of all files with jpg or jpeg extension
     image_files = [f for f in os.listdir(wallpaper_directory) if f.lower().endswith((".jpg", ".jpeg"))]
