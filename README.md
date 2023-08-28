@@ -1,7 +1,7 @@
 # wallpaper
-# Wallhaven Wallpaper Downloader
+# Wallpaper Downloader
 
-![GitHub](https://img.shields.io/github/license/your-username/wallhaven-downloader)
+![GitHub](https://img.shields.io/github/license/versus2004/wallpaper)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-requests-brightgreen)
 
