@@ -3,7 +3,7 @@
 ```markdown
 # Wallhaven Wallpaper Downloader
 
-![GitHub](https://img.shields.io/github/license/your-username/wallhaven-downloader)
+![GitHub](https://img.shields.io/github/license/yversus2004/wallpaper)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-requests-brightgreen)
 
@@ -31,12 +31,12 @@ This script allows you to search for wallpapers on Wallhaven and download them t
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/wallhaven-downloader.git
+   git clone https://github.com/versus2004/wallpaper.git
    ```
 
 2. Change to the project directory:
    ```sh
-   cd wallhaven-downloader
+   cd wallpaper
    ```
 
 3. Install the required Python libraries:
@@ -54,9 +54,3 @@ For example, to download anime wallpapers, you can run:
 ```sh
 python waldl.py anime wallpapers
 ```
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace placeholders like `your-username` with your actual GitHub username and update any other relevant information. You can save this content in a file named `README.md` in your repository's root directory. Additionally, you might want to include information about how to contribute, troubleshoot, or report issues if you plan to collaborate with others on the repository.
