@@ -1,7 +1,7 @@
 
-# Wallhaven Wallpaper Downloader & Automatic Gnome Wallpaper Changer
+# Wallpaper Downloader & Automatic Gnome Wallpaper Changer
 
-## Wallhaven Wallpaper Downloader
+## Wallpaper Downloader
 
 ![GitHub](https://img.shields.io/github/license/yversus2004/wallpaper)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
