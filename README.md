@@ -1,6 +1,4 @@
 
-
-```markdown
 # Wallhaven Wallpaper Downloader
 
 ![GitHub](https://img.shields.io/github/license/yversus2004/wallpaper)
