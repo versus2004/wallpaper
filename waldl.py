@@ -7,7 +7,8 @@ import random
 import pathlib
 import string
 
-DOWNLOAD_DIR = f"{str(pathlib.Path.home())}/pix/wall"
+DOWNLOAD_DIR = "path"
+
 
 def generate_id():
     return ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
@@ -25,7 +26,7 @@ def download_wallpaper(url):
         
 
 def wallpaper_search_api(query):
-    query_url = f"https://wallhaven.cc/api/v1/search?q={query}" 
+    query_url = f"https://wallhaven.cc/api/v1/search?q={query}&resolutions=1920x1080"  # Add resolutions parameter
     res = requests.get(query_url)
     response = res.json()
     dl_links = []
