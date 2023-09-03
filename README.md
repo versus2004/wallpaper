@@ -92,4 +92,3 @@ The script will select a random image from the specified directory and set it as
 
 ```
 
-Remember to replace `"yourusername"` with your actual GitHub username and update the paths and filenames as necessary.
